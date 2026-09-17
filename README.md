@@ -10,3 +10,7 @@ This repository contains the source code, design documents, and digital assets f
 *   **Audio Engineering:** Integrate sound effects and a dynamic soundtrack heavily inspired by traditional Sanskrit compositions.
 *   **Playtesting & Optimization:** Release alpha and beta builds for bug tracking, performance profiling, and gameplay refinement.
 
+##Controls 
+* WASD for movement of Player 1 and Q to pick up and put down the Burden.
+* Arrow keys for movement of Player 2 and Shift for puck up and put down the Burden.
+* Both the players have to collaborate for escaping the Maze/Dungens.
